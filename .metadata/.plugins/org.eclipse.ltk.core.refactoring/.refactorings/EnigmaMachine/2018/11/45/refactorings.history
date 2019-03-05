@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Machine.PlugBoard&apos; to &apos;Plugboard&apos;&#x0D;&#x0A;- Original project: &apos;EnigmaMachine&apos;&#x0D;&#x0A;- Original element: &apos;Machine.PlugBoard&apos;&#x0D;&#x0A;- Renamed element: &apos;Machine.Plugboard&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PlugBoard&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;Machine{PlugBoard.java[PlugBoard" matchStrategy="1" name="Plugboard" qualified="false" references="true" similarDeclarations="false" stamp="1541791540461" textual="false" version="1.0"/>
+</session>
